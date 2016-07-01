@@ -1,0 +1,14 @@
+layout_spectrum: 0.37879824871197343
+typography_spectrum: 0.5642025417182595
+color:
+  brandStrength: 0.5170783826615661
+  lightness: 0.009985297685489058
+  saturation: 0.06810313649475574
+  rhythmicContrast: 0.845313640544191
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: MDMazing
